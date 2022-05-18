@@ -1,0 +1,10 @@
+{
+  "name": "node-messagebird-verify-example",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "body-parser": "^1.20.0",
+    "messagebird": "^3.8.0"
+  }
+}
